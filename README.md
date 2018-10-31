@@ -70,4 +70,8 @@ Wasserstein GAN.pdf
 
 [arXiv-18] The relativistic discriminator - a key element missing from standard GAN.pdf
 
+### Repos
+
+https://github.com/AlexiaJM/RelativisticGAN
+
 
